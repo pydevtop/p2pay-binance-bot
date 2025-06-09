@@ -61,3 +61,15 @@ P2P Trade Bot Binance https://github.com/pydevtop/p2p-trade-bot-binance
 ## Contacts
 Telegram:  @morgan_sql<br>
 Telegram channel: https://t.me/pydevtop
+
+## License and Usage Notice
+
+This project is licensed under the MIT License.
+
+⚠️ However, unauthorized copying, redistribution, publication, or forking of this repository in a way that falsely attributes authorship or contributor status is strictly prohibited.
+
+The author (PyDev) does not consent to being listed as a contributor in unauthorized forks or copies of this repository.
+
+If you find any unauthorized fork or copy that misuses the author’s name, please report it to GitHub Support.
+
+Author: PyDev
