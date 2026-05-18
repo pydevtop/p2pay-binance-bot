@@ -75,7 +75,7 @@ P2P Trade Bot Binance https://github.com/pydevtop/p2p-trade-bot-binance
 
 ## Contacts
 Telegram:  @morgan_sql<br>
-Telegram channel: https://t.me/pydevtop
+
 
 ## License and Usage Notice
 
