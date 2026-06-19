@@ -68,9 +68,16 @@ Go to the Bot folder and click on the start.bat file to start the bot
 https://py-dev.top/application-software/p2pay-binance-bot
 
 
+******************************************************************************
 ####  Similar developments:
 ******************************************************************************
 P2P Trade Bot Binance https://github.com/pydevtop/p2p-trade-bot-binance
+
+### Related Binance P2P Automation Tool
+
+**Binance P2P Telegram Bot** is a Python-based trading automation solution that provides automatic chat responses, order tracking, payment detection, and instant crypto release for Binance P2P merchants.
+
+https://github.com/pydevtop/p2p-binance-telegram-bot
 ******************************************************************************
 
 ## Contacts
