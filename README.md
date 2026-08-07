@@ -9,6 +9,17 @@ You will no longer waste time checking orders or processing payments - the bot d
 
 Full automation of the process - just set up and forget about manual trading!
 
+## Watch P2Pay Binance Bot Demo
+
+<a href="https://www.youtube.com/watch?v=ofwYMRMOCps" target="_blank"><img src="https://img.youtube.com/vi/ofwYMRMOCps/0.jpg" alt="P2Pay Binance Bot" style="width:259px;height:194px;"></a>
+
+#### Binance P2P M-PESA Payment Bot for Kenya
+
+<a href="https://www.youtube.com/watch?v=F5NQDAq105A" target="_blank"><img src="https://img.youtube.com/vi/F5NQDAq105A/0.jpg" alt="Binance P2P M-PESA Payment Bot for Kenya" style="width:259px;height:194px;"></a>
+
+#### Automate M-PESA on Binance P2P 🇰🇪
+
+<a href="https://www.youtube.com/watch?v=ZN4oc0pms0c" target="_blank"><img src="https://img.youtube.com/vi/ZN4oc0pms0c/0.jpg" alt="P2PTradeBot" style="width:259px;height:194px;"></a>
  
 
 ### How does the bot work?
